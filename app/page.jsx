@@ -65,7 +65,7 @@ const handleClick=()=>{
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-r from-black to-white border border-teal-400/30">
              <img src="./lenienttree.png" className="rounded-lg"/>
             </div>
-            <span className="text-xl font-bold text-teal-400">LeninetTree</span>
+            <span className="text-xl font-bold text-teal-400">LenientTree</span>
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">
@@ -143,7 +143,7 @@ const handleClick=()=>{
                   <span className="text-white">Meets Opportunity</span>
                 </h1>
                 <p className="mx-auto max-w-[700px] text-gray-300 md:text-xl lg:text-2xl leading-relaxed">
-                  Join LeninetTree - the premier platform connecting brilliant minds with groundbreaking hackathons,
+                  Join LenientTree - the premier platform connecting brilliant minds with groundbreaking hackathons,
                   ideathons, conclaves, and webinars. Showcase your events and be part of the innovation revolution.
                 </p>
               </div>
@@ -800,7 +800,7 @@ const handleClick=()=>{
           <div className="container px-4 md:px-6">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-4 text-white">
-                Why Choose LeninetTree?
+                Why Choose LenientTree?
               </h2>
               <p className="text-gray-400 max-w-2xl mx-auto">
                 We're more than just a platform - we're your partner in creating and discovering amazing innovation
@@ -886,7 +886,7 @@ const handleClick=()=>{
                   Ready to Showcase Your Event?
                 </h2>
                 <p className="mx-auto max-w-2xl text-gray-300 md:text-xl">
-                  Join thousands of successful event organizers who trust LeninetTree to amplify their innovation
+                  Join thousands of successful event organizers who trust LenientTree to amplify their innovation
                   events. We care about your success and are committed to helping you reach the right audience.
                 </p>
               </div>
@@ -964,7 +964,7 @@ const handleClick=()=>{
                 <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-r from-teal-400 to-purple-500 border border-teal-400/30">
                   <img src="./lenienttree.png" className="rounded-lg"/>
                 </div>
-                <span className="text-xl font-bold text-teal-400">LeninetTree</span>
+                <span className="text-xl font-bold text-teal-400">LenientTree</span>
               </div>
               <p className="text-gray-400">
                 Connecting innovators with opportunities worldwide. Your success is our mission.
@@ -1028,7 +1028,7 @@ const handleClick=()=>{
 
           <div className="mt-8 pt-8 border-t border-gray-800 text-center text-sm text-gray-400">
             <p>
-              &copy; {new Date().getFullYear()} LeninetTree. All rights reserved. Built with ❤️ Dvelpoment Team LeninetTree.
+              &copy; {new Date().getFullYear()} LenientTree. All rights reserved. Built with ❤️ Dvelpoment Team LenientTree.
             </p>
           </div>
         </div>
