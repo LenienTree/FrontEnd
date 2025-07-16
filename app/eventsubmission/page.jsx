@@ -19,7 +19,7 @@ export default function HomePage() {
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-r from-black to-white border border-teal-400/30">   
              <img src="./lenienttree.png" className="rounded-lg"/>
             </div>
-            <span href="./" className="text-xl font-bold text-teal-400">LeninetTree</span>
+            <span href="./" className="text-xl font-bold text-teal-400">LenientTree</span>
         
           
           </div>
@@ -98,7 +98,7 @@ export default function HomePage() {
         </h1>
 
         <p className="text-gray-300 text-lg md:text-xl max-w-4xl mb-12 leading-relaxed">
-          Join LeninetTree - the premier platform connecting brilliant minds with groundbreaking hackathons, ideathons,
+          Join LenientTree - the premier platform connecting brilliant minds with groundbreaking hackathons, ideathons,
           conclaves, and webinars. Showcase your events and be part of the innovation revolution.
         </p>
 
@@ -143,7 +143,7 @@ export default function HomePage() {
                 <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-r from-teal-400 to-purple-500 border border-teal-400/30">
                   <img src="./lenienttree.png" className="rounded-lg"/>
                 </div>
-                <span className="text-xl font-bold text-teal-400">LeninetTree</span>
+                <span className="text-xl font-bold text-teal-400">LenientTree</span>
               </div>
               <p className="text-gray-400">
                 Connecting innovators with opportunities worldwide. Your success is our mission.
@@ -207,7 +207,7 @@ export default function HomePage() {
 
           <div className="mt-8 pt-8 border-t border-gray-800 text-center text-sm text-gray-400">
             <p>
-              &copy; {new Date().getFullYear()} LeninetTree. All rights reserved. Built with ❤️ Dvelpoment Team LeninetTree.
+              &copy; {new Date().getFullYear()} LenientTree. All rights reserved. Built with ❤️ Dvelpoment Team LenientTree.
             </p>
           </div>
         </div>
